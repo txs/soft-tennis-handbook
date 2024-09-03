@@ -17,9 +17,9 @@ const withNextra = require('nextra')({
 // module.exports = withNextra()
 
 module.exports = withNextra({
+  output: 'export',
   basePath: isProd ? `/${repoName}` : '',
-  assetPrefix: isProd ? `/${repoName}/` : '',
-  output: 'export'
+  assetPrefix: isProd ? `/${repoName}/` : ''
 })
  
 // If you have other Next.js configurations, you can pass them as the parameter:
