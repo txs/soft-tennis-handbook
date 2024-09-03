@@ -1,0 +1,51 @@
+{
+  "index": "首頁",
+  "Preface": "前言",
+  "Chapter1-WarmUpAndPreparation": {
+    "title": "第1章：熱身與準備活動",
+    "ImportanceOfWarmUp": "熱身的重要性",
+    "CoordinationAndFlexibility": "協調性與柔韌性訓練",
+    "BasicWarmUpExercises": "基本熱身動作"
+  },
+  "Chapter2-BasicTechniques": {
+    "title": "第2章：基本動作與技巧",
+    "GripTypes": "握拍方式",
+    "StanceAndFootwork": "基本站姿與步法",
+    "StrokingTechniques": "擊球動作"
+  },
+  "Chapter3-ServingAndReceiving": {
+    "title": "第3章：發球與接發球",
+    "ServingTechniques": "發球技巧",
+    "ReceivingStrategies": "接發球要點"
+  },
+  "Chapter4-VolleyAndDefense": {
+    "title": "第4章：網前截擊與防守",
+    "VolleyTechniques": "截擊技巧",
+    "DefensiveStrategies": "防守策略"
+  },
+  "Chapter5-AdvancedTechniquesAndTactics": {
+    "title": "第5章：進階技巧與戰術",
+    "AdvancedSkills": "進階技巧",
+    "TacticalApplications": "戰術運用"
+  },
+  "Chapter6-SinglesAndDoublesPlay": {
+    "title": "第6章：單打與雙打比賽",
+    "SinglesTechniques": "單打技術",
+    "DoublesCoordination": "雙打配合"
+  },
+  "Chapter7-TrainingAndMatchPreparation": {
+    "title": "第7章：訓練與比賽準備",
+    "ComprehensiveSkillTraining": "綜合技能訓練",
+    "MatchPreparation": "比賽心態與準備"
+  },
+  "Conclusion": {
+    "title": "結論",
+    "SoftTennisCharm": "軟式網球的魅力與挑戰",
+    "FutureTennisPath": "未來的網球之路"
+  },
+  "Appendix": {
+    "title": "附錄",
+    "FAQ": "常見問題解答",
+    "RecommendedResources": "推薦資源"
+  }
+}
