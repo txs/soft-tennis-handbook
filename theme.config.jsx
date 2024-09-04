@@ -26,7 +26,7 @@ export default {
   ),
   useNextSeoProps() {
     return {
-      titleTemplate: '%s – 軟式網球入門指南 Intro to Soft Tennis 101 Handbook',
+      titleTemplate: '%s – 軟式網球入門指南 YouTube:@AndysTV',
       description: '軟式網球入門指南：學習技巧、策略和規則。適合初學者到中級玩家的完整資源。提升你的軟網技能！ | Soft Tennis Handbook: Learn techniques, strategies, and rules. Complete guide for beginners to intermediate players. Improve your soft tennis skills!',
       openGraph: {
         type: 'website',
