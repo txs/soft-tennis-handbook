@@ -9,12 +9,12 @@ const GiscusComponent = () => {
     <Giscus
       repo="txs/soft-tennis-handbook"
       repoId="R_kgDOMsWGjA"
-      category="Comments"
+      category="General"
       categoryId="DIC_kwDOMsWGjM4CiLWA"
-      mapping="og:title"
+      mapping="title"
       strict="0"
       reactionsEnabled="1"
-      emitMetadata="0"
+      emitMetadata="1"
       inputPosition="top"
       theme={resolvedTheme === 'dark' ? 'dark' : 'light'}
       lang="zh-TW"
