@@ -18,7 +18,7 @@ const GiscusComponent = () => {
       key={key}
       repo="txs/soft-tennis-handbook"
       repoId="R_kgDOMsWGjA"
-      category="Comments"
+      category="Announcements"
       categoryId="DIC_kwDOMsWGjM4CiLWA"
       mapping="og:title"
       strict="0"
