@@ -9,9 +9,9 @@ const GiscusComponent = () => {
     <Giscus
       repo="txs/soft-tennis-handbook"
       repoId="R_kgDOMsWGjA"
-      category="General"
+      category="Announcements"
       categoryId="DIC_kwDOMsWGjM4CiLWA"
-      mapping="title"
+      mapping="og:title"
       strict="0"
       reactionsEnabled="1"
       emitMetadata="1"
